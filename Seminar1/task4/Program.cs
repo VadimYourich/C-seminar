@@ -4,7 +4,7 @@
 //	918 -> 8
 
 Console.WriteLine("Введите трёхзначное число: ");
-if number = Convert.ToInt32(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
 if (number > 99 && number < 1000)
 {
     double count = number % 10;

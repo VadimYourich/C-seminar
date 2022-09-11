@@ -33,7 +33,7 @@ else if(number == 7)
 {
     Console.WriteLine("Воскресенье");
 }
-else (number > 7 || number < 1)
+else if(number > 7 || number < 1)
 {
     Console.WriteLine("Неверное число");
 }
