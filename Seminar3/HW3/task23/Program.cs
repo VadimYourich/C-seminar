@@ -15,5 +15,5 @@ if (n > 0)
 }
 else
 {
-    Console.WriteLine("N должно быть больше 0!");
+    Console.WriteLine("N нужно больше 0!");
 }
