@@ -1,0 +1,15 @@
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\bin\Debug\net6.0\task44.exe
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\bin\Debug\net6.0\task44.deps.json
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\bin\Debug\net6.0\task44.runtimeconfig.json
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\bin\Debug\net6.0\task44.dll
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\bin\Debug\net6.0\task44.pdb
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\obj\Debug\net6.0\task44.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\obj\Debug\net6.0\task44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\obj\Debug\net6.0\task44.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\obj\Debug\net6.0\task44.AssemblyInfo.cs
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\obj\Debug\net6.0\task44.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\obj\Debug\net6.0\task44.dll
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\obj\Debug\net6.0\refint\task44.dll
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\obj\Debug\net6.0\task44.pdb
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\obj\Debug\net6.0\task44.genruntimeconfig.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar6\task44\obj\Debug\net6.0\ref\task44.dll
