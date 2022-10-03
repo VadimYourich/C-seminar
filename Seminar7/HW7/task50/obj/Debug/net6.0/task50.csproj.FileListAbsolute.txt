@@ -1,0 +1,15 @@
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\bin\Debug\net6.0\task50.exe
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\bin\Debug\net6.0\task50.deps.json
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\bin\Debug\net6.0\task50.runtimeconfig.json
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\bin\Debug\net6.0\task50.dll
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\bin\Debug\net6.0\task50.pdb
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\obj\Debug\net6.0\task50.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\obj\Debug\net6.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\obj\Debug\net6.0\task50.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\obj\Debug\net6.0\task50.AssemblyInfo.cs
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\obj\Debug\net6.0\task50.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\obj\Debug\net6.0\task50.dll
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\obj\Debug\net6.0\refint\task50.dll
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\obj\Debug\net6.0\task50.pdb
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\obj\Debug\net6.0\task50.genruntimeconfig.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar7\HW7\task50\obj\Debug\net6.0\ref\task50.dll
