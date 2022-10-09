@@ -1,0 +1,15 @@
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\bin\Debug\net6.0\task63.exe
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\bin\Debug\net6.0\task63.deps.json
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\bin\Debug\net6.0\task63.runtimeconfig.json
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\bin\Debug\net6.0\task63.dll
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\bin\Debug\net6.0\task63.pdb
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\obj\Debug\net6.0\task63.csproj.AssemblyReference.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\obj\Debug\net6.0\task63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\obj\Debug\net6.0\task63.AssemblyInfoInputs.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\obj\Debug\net6.0\task63.AssemblyInfo.cs
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\obj\Debug\net6.0\task63.csproj.CoreCompileInputs.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\obj\Debug\net6.0\task63.dll
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\obj\Debug\net6.0\refint\task63.dll
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\obj\Debug\net6.0\task63.pdb
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\obj\Debug\net6.0\task63.genruntimeconfig.cache
+C:\Users\windows\Documents\Обучение\C#\Семинары\C-seminar\Seminar9\task63\obj\Debug\net6.0\ref\task63.dll
